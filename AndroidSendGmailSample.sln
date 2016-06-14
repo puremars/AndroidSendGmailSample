@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidSendGmailSample", "AndroidSendGmailSample\AndroidSendGmailSample.csproj", "{A7C02D37-C2A8-4B99-BBCC-95E0BECC1725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidSendGmailSample.UITests", "AndroidSendGmailSample.UITests\AndroidSendGmailSample.UITests.csproj", "{B326CEF3-D6DC-4EC8-86C0-EC1235090F01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C02D37-C2A8-4B99-BBCC-95E0BECC1725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C02D37-C2A8-4B99-BBCC-95E0BECC1725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C02D37-C2A8-4B99-BBCC-95E0BECC1725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C02D37-C2A8-4B99-BBCC-95E0BECC1725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B326CEF3-D6DC-4EC8-86C0-EC1235090F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B326CEF3-D6DC-4EC8-86C0-EC1235090F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B326CEF3-D6DC-4EC8-86C0-EC1235090F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B326CEF3-D6DC-4EC8-86C0-EC1235090F01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
